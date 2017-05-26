@@ -1,6 +1,12 @@
 # Telegraph Clone
 
-{TODO. There will be project description}
+Сайт телеграфа. Любой желающий может оставить свои пост и получить на него ссылку.
+
+# Start poject
+
+  `pip install -r requirements.txt`
+
+  `python server.py`
 
 # Project Goals
 
